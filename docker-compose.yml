@@ -1,3 +1,5 @@
+version: '3.8'
+
 services:
 
   gateway:
@@ -27,7 +29,7 @@ services:
   c2pa-service:
     build:
       context: .
-      target: c2pa_heavy
+      target: c2pa_heavy_service
     container_name: c2pa_service
     command: node src/services/c2paService.js
     ports:
