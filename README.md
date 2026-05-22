@@ -16,8 +16,8 @@ Lutter contre la désinformation et les deepfakes
 Watermarking (Filigrane numérique)
 Le watermarking consiste à intégrer une information cachée ou visible directement dans les données du contenu (pixels, échantillons audio...), de façon à ce qu'elle résiste aux modifications.
 
-<<<<<<< NIKA-WORK
-# 🛡️ Projet 2 — Système de Vérification de Provenance C2PA
+
+# 🛡️ Projet 7 — Système de Vérification de Provenance C2PA
 
 > Microservices Node.js · Docker · Groupe 2
 
