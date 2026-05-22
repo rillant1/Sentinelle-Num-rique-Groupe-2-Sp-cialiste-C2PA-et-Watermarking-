@@ -165,9 +165,19 @@ Ne pas essayer de faire `npm install` directement sur ta machine sans les outils
 
 ---
 
+## Watermarking
+
+Le watermarking consiste à intégrer une information cachée ou visible directement dans les données du contenu, par exemple dans les pixels d'une image ou les échantillons audio.
+
+### Deux grandes familles
+
+| Type | Description |
+|------|-------------|
+| Visible | Logo ou texte superposé, comme un filigrane sur une photo stock |
+| Invisible robuste | Information encodée imperceptiblement dans le signal, résistante aux compressions ou recadrages |
+
+## En résumé
+
+Ces deux technologies sont complémentaires dans la lutte contre la désinformation et les deepfakes. Le C2PA apporte la traçabilité et la transparence, tandis que le watermarking assure une persistance de l'information même après manipulation.
+
 *Groupe 2 — Système de Vérification de Provenance C2PA*
-=======
-Deux grandes familles
-TypeDescriptionVisibleLogo ou texte superposé (ex. : filigrane sur une photo stock)Invisible (robuste)Information encodée imperceptiblement dans le signal, résistante aux compressions, recadrages, etc.
- En résumé
-Ces deux technologies sont vues comme complémentaires dans la lutte contre la désinformation et les deepfakes. Le C2PA apporte la traçabilité et la transparence, tandis que le watermarking assure une persistance de l'information même après manipulation. Des organismes comme l'UE (AI Act) et des initiatives comme la Content Authenticity Initiative poussent vers leur adoption standardisée.
